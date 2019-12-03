@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//Committing Changes 
 public class NumericConversion{
 
     public static long hexStringDecode (String hex) {
